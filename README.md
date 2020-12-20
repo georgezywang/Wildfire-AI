@@ -12,4 +12,4 @@ git clone https://github.com/facebookresearch/detectron2
 ## WildfireAI
 With Segmentation |  Bounding Box Only
 :-------------------------:|:-------------------------:
-![](FireData/video-mask.mp4)  |  ![](FireData/video-bounding.mp4)
+![Alt text](FireData/image-mask.jpg "Mask")  |  ![Alt text](FireData/image-bb.jpg "BB")
